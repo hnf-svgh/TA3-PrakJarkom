@@ -26,7 +26,7 @@ Bagian ini berisi tautan penting yang berkaitan dengan Tugas Akhir Praktikum Jar
 ### 🎥 Link Video YouTube Demonstrasi
 
 Tautan di bawah ini mengarah ke video presentasi dan demonstrasi hasil konfigurasi Tugas Akhir kami.
-* **Video Demonstrasi / Presentasi:** **[[MASUKKAN LINK YOUTUBE ANDA DI SINI](https://youtu.be/BZV6H4Y-JKo)]**
+* **Video Demonstrasi / Presentasi:** **[(https://youtu.be/BZV6H4Y-JKo)]**
 
 ## 📚 Panduan Pengujian (Opsional)
 
